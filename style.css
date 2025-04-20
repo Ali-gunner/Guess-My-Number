@@ -117,3 +117,13 @@ h1 {
 .label-score {
   margin-bottom: 2rem;
 }
+
+.label-history {
+  margin-top: 2rem;
+  font-size: 1.6rem;
+}
+
+.history {
+  display: inline-block;
+  margin-top: 1rem;
+}
